@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Raushan Kumar</h1>
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=BF40BF&amp;size=20&amp;lines=Hey!+It's+Raushan+Raushan!;Java+Back-end+Developer...;" style="width: 100%;">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&amp;color=BF40BF&amp;size=20&amp;lines=Hey!+It's+Raushan+Kumar!;Java+Back-end+Developer...;" style="width: 100%;">
 
 
 <h3 align="center">A passionate JAVA Back-End Developer, Dedicated to developing robust applications that interact with the Backend part of web applications. Extensive expertise in website architecture, design, and web design, and web API designs. Problem-solving mindset with a goal to optimize my application for better stability and speed. Enjoy to work in a team.</h3>
@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raushan18314" alt="raushan18314" /></a> </p>
 
-- 🌱 I’m currently learning **Springboot,Hibernate**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://https://raushan18314.github.io/)
-- 💬 Ask me about **Java,DSA,JavaScript,css,html,Springboot,Hibernate**
+- 🌱 I’m currently learning **Springboot, Hibernate**
+- 👨‍💻 All of my projects are available at [My Portfolio](https://raushan18314.github.io/)
+- 💬 Ask me about **Java, DSA, JavaScript, css, html, Springboot, Hibernate**
 
 - 📫 How to reach me **raushan18314@gmail.com**
 
