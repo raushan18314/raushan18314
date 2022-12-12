@@ -29,13 +29,13 @@
 
  | Github Stats | Current Strek  |
 | --- | --- |
-| ![Pankaj's GitHub stats](https://github-readme-stats.vercel.app/api?username=raushan18314&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raushan18314&theme=tokyonight)](https://git.io/streak-stats) |
+| ![Raushan's GitHub stats](https://github-readme-stats.vercel.app/api?username=raushan18314&show_icons=true&theme=tokyonight) | [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raushan18314&theme=tokyonight)](https://git.io/streak-stats) |
 <!-- Theme color -->
 <!-- dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 
 | Top Languages | Contribution Graph  |
 | :--- | --- |
-| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=raushan18314&show_icons=true&theme=cobalt" alt="Pankaj's Language stats" /> | [![Pankaj's github activity graph](https://activity-graph.herokuapp.com/graph?username=raushan18314&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/raushan18314/github-readme-activity-graph) |
+| <img height=200 width=350 src="https://github-readme-stats.vercel.app/api/top-langs?username=raushan18314&show_icons=true&theme=cobalt" alt="Raushan's Language stats" /> | [![Raushan's github activity graph](https://activity-graph.herokuapp.com/graph?username=raushan18314&custom_title=This%20is%20a%20title&hide_border=true&theme=gruvbox)](https://github.com/raushan18314/github-readme-activity-graph) |
 
 <div aling="left">
   
